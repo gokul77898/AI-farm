@@ -1,0 +1,1 @@
+export type LoginMethod = 'email' | 'phone';
